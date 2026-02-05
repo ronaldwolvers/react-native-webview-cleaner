@@ -1,5 +1,5 @@
 {
-  "name": "@onekeyfe/react-native-webview-cleaner",
+  "name": "@ronaldwolvers/react-native-webview-cleaner",
   "version": "1.0.1",
   "description": "webview cleaner",
   "main": "lib/commonjs/index",
@@ -42,14 +42,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OneKeyHQ/react-native-webview-cleaner.git"
+    "url": "git+https://github.com/ronaldwolvers/react-native-webview-cleaner.git"
   },
-  "author": "OneKeyHQ <hi@onekey.so> (https://github.com/OneKeyHQ)",
+  "author": "Ronald Wolvers <ahcwolvers@gmail.com> (https://github.com/ronaldwolvers)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/OneKeyHQ/react-native-webview-cleaner/issues"
+    "url": "https://github.com/ronaldwolvers/react-native-webview-cleaner/issues"
   },
-  "homepage": "https://github.com/OneKeyHQ/react-native-webview-cleaner#readme",
+  "homepage": "https://github.com/ronaldwolvers/react-native-webview-cleaner#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

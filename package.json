@@ -111,7 +111,11 @@
       "publish": true
     },
     "yarn": {
-      "publish": true
+      "publish": true,
+      "publishConfig": {
+        "access": "public",
+        "registry": "https://registry.npmjs.org"
+      }
     },
     "github": {
       "release": true

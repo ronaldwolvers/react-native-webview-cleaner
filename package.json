@@ -110,6 +110,9 @@
     "npm": {
       "publish": true
     },
+    "yarn": {
+      "publish": true
+    },
     "github": {
       "release": true
     },

@@ -107,16 +107,6 @@
       "commitMessage": "chore: release ${version}",
       "tagName": "v${version}"
     },
-    "npm": {
-      "publish": true
-    },
-    "yarn": {
-      "publish": true,
-      "publishConfig": {
-        "access": "public",
-        "registry": "https://registry.npmjs.org"
-      }
-    },
     "github": {
       "release": true
     },
